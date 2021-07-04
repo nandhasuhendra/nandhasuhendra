@@ -7,6 +7,7 @@ I started my career as a Ruby on Rails developer since 2 years ago. I do a cool 
   
 ### 📫 How to reach me: ...
 <span><b>[E-Mail](mailto:nandhasuhendra@gmail.com)</b> • </span>
+<span><b>[Gist](https://gist.github.com/nandhasuhendra/)</b> • </span>
 <span><b>[Linkedin](https://www.linkedin.com/in/sang-putu-nanda-suhendra/)</b> • </span>
 <span><b>[Instagram](https://www.linkedin.com/in/sang-putu-nanda-suhendra/)</b>
 <hr/>
