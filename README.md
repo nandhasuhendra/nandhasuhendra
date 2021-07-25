@@ -12,6 +12,7 @@ I started my career as a Ruby on Rails developer since 2 years ago. I do a cool 
 <span><b>[Instagram](https://www.linkedin.com/in/sang-putu-nanda-suhendra/)</b>
 <hr/>
 
+### 💻 Tools I used: ...
 <!-- https://github.com/Ileriayo/markdown-badges -->
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
