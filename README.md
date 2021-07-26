@@ -3,7 +3,7 @@ I started my career as a Ruby on Rails developer since 2 years ago. I do a cool 
 
 ### tl;dr My life in a nut shell...
 - 💻 Currently working on Ruby on Rails Project (in a small developer team in Bali)
-- 🚀 Currently learning Javascript, Hotwire-Rails, Software Testing, Docker, Ansible and Capistrano to make easier to deploy Rails app
+- 🚀 Currently learning Hotwire-Rails, Software Testing, Docker and Capistrano to make easier to deploy Rails app
   
 ### 📫 How to reach me: ...
 <span><b>[E-Mail](mailto:nandhasuhendra@gmail.com)</b> • </span>
