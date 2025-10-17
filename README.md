@@ -1,28 +1,24 @@
-## Hi there, I'm Nanda 👋
-I started my career as a Software Engineer and use Ruby on Rails as my main tech to build a web app. I do cool stuff every day in my life. I focus on Backend, but sometimes I also learn some Frontend stuff. **BUT**, Backend is still the biggest part that makes me comfortable working as a Software Developer.
+# Hi — I'm Nanda 👋
 
-### tl;dr My life in a nutshell...
-- 💻 Currently working at [Mekari](https://mekari.com) as a Software Engineer
-- 🚀 Currently learning how to ship an application with good quality over quantity and curious about infrastructure stuff
-  
-### 📫 How to reach me: ...
-<span><b>[E-Mail](mailto:nandhasuhendra@gmail.com)</b> • </span>
-<span><b>[Gist](https://gist.github.com/nandhasuhendra/)</b> • </span>
-<span><b>[Linkedin](https://www.linkedin.com/in/sang-putu-nanda-suhendra/)</b> • </span>
-<span><b>[Instagram](https://www.instagram.com/nandha_suhendra/)</b>
-<hr/>
+I build reliable backend applications with Ruby on Rails and enjoy making systems easier to operate and test. I work on meaningful product problems, care about developer experience, and I'm curious about infrastructure and observability. I also use Sorbet, Docker, and Go (Golang) daily at my company, and I'm continually improving in those areas.
 
-<!--
-**nandhasuhendra/nandhasuhendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Current: Software Engineer at [Mekari](https://mekari.com)  
+- ⚙️ Focus: Backend systems, APIs, testing, and shipping quality software  
+- 🎯 Currently learning: Distributed systems observability, SRE practices, Sorbet, and Go
 
-Here are some ideas to get you started:
+## Tech & tools
+Ruby · Ruby on Rails · Sorbet · Go · PostgreSQL · Redis · Docker · RSpec · Sidekiq · SQL · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ....a
--->
+## What I enjoy working on
+- Building and maintaining APIs and background processing systems  
+- Improving test coverage and CI workflows  
+- Making deployments safer and monitoring easier to understand  
+- Mentoring teammates and collaborating on clear, pragmatic designs
+
+## Contact
+- Email: <nandhasuhendra@gmail.com>  
+- Gist: https://gist.github.com/nandhasuhendra/  
+- LinkedIn: https://www.linkedin.com/in/sang-putu-nanda-suhendra/  
+- Instagram: https://www.instagram.com/nandha_suhendra/
+
+Thanks for stopping by — feel free to reach out if you'd like to collaborate or chat about engineering and reliability.
