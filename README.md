@@ -2,7 +2,7 @@
 
 I build reliable backend applications with Ruby on Rails and enjoy making systems easier to operate and test. I work on meaningful product problems, care about developer experience, and I'm curious about infrastructure and observability. I also use Sorbet, Docker, and Go (Golang) daily at my company, and I'm continually improving in those areas.
 
-- 💼 Current: Software Engineer at [Mekari](https://mekari.com)  
+- 💼 Current: Software Engineer at [Dropsuite](https://dropsuite.com) ~[Mekari](https://mekari.com)~
 - ⚙️ Focus: Backend systems, APIs, testing, and shipping quality software  
 - 🎯 Currently learning: Distributed systems observability, SRE practices, Sorbet, and Go
 
